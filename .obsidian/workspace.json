@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "60ca294b851956a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6294d6016f4fee5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224c71dcf450d163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e7cacb305db6a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "615eacbd7b9761f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "704f322bab5831b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f1f74d05c809530",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "059bc2a9d7e04b34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3896a09f46bd1b82",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba746394a3b02336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f91a47a2a92390d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73888d7b7188b014",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31bc18e13edad531",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e21be4afa263a09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "64d7100b0f4192a4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "224c71dcf450d163",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20230730.md",
+    "4913",
+    "Home.md",
+    "Ubuntu 18.0.4 Devenv setup.md",
+    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6 Gathering Requirements.md",
+    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6.1 Introduction.md",
+    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0",
+    "Day Planners/Day Planner-20230729.md",
+    "TechnicalNotes/Topics/System Design/Object-oriented Analysis and Design Understanding System Development With UML 2.0 - Textbook Notes.md",
+    "Day Planners",
+    "TechnicalNotes/Topics/System Design",
+    "TechnicalNotes/Topics",
+    "TechnicalNotes"
+  ]
+}
