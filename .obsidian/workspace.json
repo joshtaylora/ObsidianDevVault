@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/2. ASM Design and Analysis Method.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4beda78bac5363d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/1. Introduction.md"
               }
             }
           },
@@ -156,16 +169,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "704f322bab5831b7",
+  "active": "d4beda78bac5363d",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230730.md",
-    "Home.md",
-    "2023-07-30.md",
-    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6 Gathering Requirements.md",
+    "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/3. Basic ASMs.md",
+    "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/2. ASM Design and Analysis Method.md",
     "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/1. Introduction.md",
+    "Home.md",
+    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6 Gathering Requirements.md",
+    "Ubuntu 18.0.4 Devenv setup.md",
+    "Day Planners/Day Planner-20230730.md",
+    "2023-07-30.md",
     "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis",
     "4913",
-    "Ubuntu 18.0.4 Devenv setup.md",
     "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6.1 Introduction.md",
     "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0",
     "Day Planners/Day Planner-20230729.md",

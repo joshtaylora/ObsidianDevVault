@@ -1,5 +1,4 @@
 [
-  "obsidian-vimrc-support",
   "dataview",
   "obsidian-kanban",
   "calendar",
@@ -9,5 +8,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "nldates-obsidian",
   "obsidian-linter",
-  "homepage"
+  "homepage",
+  "obsidian-vimrc-support"
 ]
