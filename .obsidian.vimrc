@@ -1,1 +1,2 @@
-inoremap jk <ESC>
+imap jk <Esc>
+set clipboard=unnamed

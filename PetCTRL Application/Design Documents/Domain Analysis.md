@@ -1,0 +1,5 @@
+- When defining the boundaries of individual microservices, the general rule to follow is that a service should do "one thing"
+- Design around business capabilities, not horizontal layers like data access or messaging
+- Loose coupling and high functional cohesion are key
+	- microservices are loosely coupled if you can change one service without requiring other services to be updated at the same time
+	- A microservice is `cohesive` if it has a single, well-defined purpose such as managing user accounts or tracking delivery history
