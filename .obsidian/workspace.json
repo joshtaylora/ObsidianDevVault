@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PetCTRL Application/Goals.md",
+                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PetCTRL Application/Goals.md",
+                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PetCTRL Application/Goals.md",
+                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PetCTRL Application/Goals.md"
+                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md"
               }
             }
           },
@@ -168,9 +168,14 @@
   },
   "active": "ab84724b72208605",
   "lastOpenFiles": [
+    "planck_rev7_layout_ortho_4x12_mine.json",
+    "Pasted image 20230907103656.png",
+    "Pasted image 20230907103543.png",
+    "Pasted image 20230907103440.png",
+    "Home.md",
+    "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
     "PetCTRL Application/Goals.md",
     "Software Engineering Learning Paths/Development Plan.md",
-    "Home.md",
     "DevConfigs/Ubuntu 18.0.4 Devenv setup.md",
     "TechnicalNotes/Topics/Software Usage/Neovim 0.9.1 Lua Config Notes.md",
     "TechnicalNotes/Topics/Software Usage",
@@ -205,8 +210,6 @@
     "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6 Gathering Requirements.md",
     "Day Planners/Day Planner-20230730.md",
     "2023-07-30.md",
-    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6.1 Introduction.md",
-    "Day Planners/Day Planner-20230729.md",
-    "TechnicalNotes/Topics/System Design/Object-oriented Analysis and Design Understanding System Development With UML 2.0 - Textbook Notes.md"
+    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6.1 Introduction.md"
   ]
 }
