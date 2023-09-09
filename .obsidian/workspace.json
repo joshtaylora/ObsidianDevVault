@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
+                "file": "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud/2 Introduction to Spring Boot.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
+                "file": "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud/2 Introduction to Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
+                "file": "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud/2 Introduction to Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md"
+                "file": "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud/2 Introduction to Spring Boot.md"
               }
             }
           },
@@ -168,14 +168,20 @@
   },
   "active": "ab84724b72208605",
   "lastOpenFiles": [
+    "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud/1 Introduction to Microservices.md",
+    "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud/Table of Contents.md",
+    "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud/2 Introduction to Spring Boot.md",
+    "Home.md",
+    "Pasted image 20230907152916.png",
+    "Software Engineering Learning Paths/Development Plan.md",
+    "TechnicalNotes/Topics/Microservices/Microservices with Spring Boot and Spring Cloud",
+    "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
+    "DevConfigs/Mechanical Keyboards/POK3R v2 Low Profile Mechanical Keyboard.md",
     "planck_rev7_layout_ortho_4x12_mine.json",
     "Pasted image 20230907103656.png",
     "Pasted image 20230907103543.png",
     "Pasted image 20230907103440.png",
-    "Home.md",
-    "DevConfigs/Mechanical Keyboards/Planck OLKB x Drop v7 40%.md",
     "PetCTRL Application/Goals.md",
-    "Software Engineering Learning Paths/Development Plan.md",
     "DevConfigs/Ubuntu 18.0.4 Devenv setup.md",
     "TechnicalNotes/Topics/Software Usage/Neovim 0.9.1 Lua Config Notes.md",
     "TechnicalNotes/Topics/Software Usage",
@@ -190,7 +196,6 @@
     "Software Engineering Learning Paths/Certifications/Terraform Associate Certification",
     "Software Engineering Learning Paths/Certifications/Certifications.md",
     "Software Engineering Learning Paths/Certifications/AWS Cloud Practitioner Certification/Prep.md",
-    "DevConfigs/Mechanical Keyboards/POK3R v2 Low Profile Mechanical Keyboard.md",
     "Software Engineering Learning Paths/Certifications/AWS Cloud Practitioner Certification",
     "Software Engineering Learning Paths/Certifications",
     "Software Engineering Learning Paths",
@@ -201,15 +206,11 @@
     "DevConfigs/Mechanical Keyboards",
     "DevConfigs",
     "TechnicalNotes/Topics/Microservices/Martin Fowler - Microservices Article Notes.md",
-    "TechnicalNotes/Topics/System Design/Patterns of Enterprise Application Architecture",
     "decentralised-data.png",
-    "TechnicalNotes/Topics/Microservices",
     "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/1. Introduction.md",
     "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/3. Basic ASMs.md",
     "TechnicalNotes/Topics/System Design/Abstract State Machines - A Method for High-Level System Design and Analysis/2. ASM Design and Analysis Method.md",
     "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6 Gathering Requirements.md",
-    "Day Planners/Day Planner-20230730.md",
-    "2023-07-30.md",
-    "TechnicalNotes/Topics/System Design/Object Oriented Analysis and Design - Understanding Systems Development with UML 2.0/6.1 Introduction.md"
+    "Day Planners/Day Planner-20230730.md"
   ]
 }
